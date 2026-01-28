@@ -1,13 +1,5 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
-  basePath: '/anchor-hood',
-  assetPrefix: '/anchor-hood/',
-  images: {
-    unoptimized: true,
-    remotePatterns: [],
-  },
-}
+const nextConfig = {}
 
 module.exports = nextConfig
 
