@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/anchor-hood',
+  assetPrefix: '/anchor-hood/',
   images: {
     unoptimized: true,
     remotePatterns: [],
